@@ -1,5 +1,3 @@
-# Final Project Group 4
-
 # Package Library
 library(readxl)
 library(dplyr)
